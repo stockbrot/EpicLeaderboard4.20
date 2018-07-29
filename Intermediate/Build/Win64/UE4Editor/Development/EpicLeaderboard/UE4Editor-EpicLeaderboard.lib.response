@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-EpicLeaderboard.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\PluginCompiler\Intermediate\Build\Win64\PluginCompilerEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Documents\Unreal Projects\PluginCompiler\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4Editor\Development\EpicLeaderboard\Module.EpicLeaderboard.cpp.obj"
+"D:\Documents\Unreal Projects\PluginCompiler\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4Editor\Development\EpicLeaderboard\Module.EpicLeaderboard.gen.cpp.obj"
+"D:\Documents\Unreal Projects\PluginCompiler\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4Editor\Development\EpicLeaderboard\PCLaunch.rc.res"
+/OUT:"D:\Documents\Unreal Projects\PluginCompiler\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4Editor\Development\EpicLeaderboard\UE4Editor-EpicLeaderboard.lib"
